@@ -1,0 +1,1 @@
+DevOps, short for development and operations, brings together both part areas to ensure there are fewer redundancies in the software development process.
