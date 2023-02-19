@@ -1,2 +1,0 @@
-# This file contains information on learning DevOps engineering in SDC.
-Development operations in regards to software development cycle.
