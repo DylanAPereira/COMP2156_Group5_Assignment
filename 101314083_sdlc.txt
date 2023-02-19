@@ -1,0 +1,2 @@
+DevOps, which stands for development and operations,
+integrates the two functional areas to guarantee that the process of software creation has less inefficiencies.
