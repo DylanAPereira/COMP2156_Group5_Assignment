@@ -1,0 +1,1 @@
+The Comp 2156 DevOps course is a course intent on teaching us how to use git. We are in the process of learning how to use GitHub, TravisCI, and various other tools.
