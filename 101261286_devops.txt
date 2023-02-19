@@ -1,0 +1,2 @@
+# This file contains information on COMP2156.
+COMP2156 currently taught at George Brown College by Professor Pritesh Patel.
