@@ -1,2 +1,2 @@
-DevOps, which stands for development and operations,
-integrates the two functional areas to guarantee that the process of software creation has less inefficiencies.
+Development and operations, or DevOps connect thetwo functional domains to ensure that there are less inefficiencies
+throughout the software development process.
