@@ -2,5 +2,5 @@ COMP2156 DevOps Assignment
 
 Group 5 Members:
 - Dylan Pereira
-- Ryan
+- Ryan Wang
 - Jamane Forbes 
