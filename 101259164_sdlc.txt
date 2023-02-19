@@ -1,1 +1,3 @@
-DevOps, short for development and operations, brings together both part areas to ensure there are fewer redundancies in the software development process.
+DevOps, short for development and operations, brings together both software development and IT operations. 
+The goal of DevOps engineering is to smoothen out the software development process throughout the various stages..
+DevOps is also important because it helps polish developers skills in all aspects.
