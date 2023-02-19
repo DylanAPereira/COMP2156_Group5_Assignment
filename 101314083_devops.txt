@@ -1,0 +1,2 @@
+DevOps is a topic covered in the COMP2156 course on DevOps at George Brown College,
+which instructs students on the methods, ideas, and equipment employed in the course.
