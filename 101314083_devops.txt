@@ -1,0 +1,3 @@
+The George Brown College course COMP2156 on DevOps covers the subject of DevOps and trains students on the
+techniques, concepts, and tools used in the course.
+Git, Jenkins, Docker, and Kubernetes are some of the technologies we learn how to use to achieve DevOps concepts.

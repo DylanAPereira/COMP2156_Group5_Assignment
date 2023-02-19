@@ -1,0 +1,2 @@
+Development and operations, or DevOps connect thetwo functional domains to ensure that there are less inefficiencies
+throughout the software development process.
