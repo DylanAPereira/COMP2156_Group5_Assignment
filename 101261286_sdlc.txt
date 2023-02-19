@@ -1,1 +1,2 @@
 DevOps engineers play an important part in the software development cycle by ensuring that the phases of development, testing, deployment, and operations all function in unison and effectively.
+Learning DevOps engineering can help software developers become more effective at their jobs by improving the following: collaboration, speed, and reliability in the software development cycle.
