@@ -1,0 +1,2 @@
+# This file contains information about George Brown college.
+George Brown College is located in Toronto, Ontario.
